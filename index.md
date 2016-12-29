@@ -1,4 +1,5 @@
 # Sayho Chun
+
 ## 전세호
 
 ![Profile_img](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/%EC%97%AC%EA%B6%8C%EC%82%AC%EC%A7%84.JPG)
@@ -6,19 +7,25 @@
 - Keyword : C, C++, Java, Python, VB, MySQL, HTML, CSS, Web/UI/UX/BI/CI Design
 
 ## 프로필
+
 **생년월일** 
+
 * 1993년 10월 18일 출생 (서울특별시 논현동 출생)
 
 **이메일** 
+
 * fishcreek@naver.com
 
 **웹사이트** 
+
 * [GitHub](https://github.com/sayhoChun)
 
 **학력** 
+
 * **2014.03-현재** [동국대학교 컴퓨터공학전공](https://cse.dongguk.edu) 3학년 수료 
 
 **자격증**
+
 * **정보처리산업기사**
 
 **경력** 
@@ -40,14 +47,17 @@
 * **2016.12 ~ 2016.12** - 동국대학교 컴퓨터공학과 주최 '소프트웨어공학 프로젝트' 우수상(동국대학교 컴퓨터공학과장상) 수상
 
 **외국어**
+
 * **TOEIC** - 805
+
 * DTEPS 석차 187
+
 * 캐나다 유학 1년 6개월
 
-***
-
 ## 요약
+
 **Android 네이티브 어플리케이션** 
+
 * [HideAndSeek - 혼자하는 술래잡기](https://play.google.com/store/apps/details?id=com.now.seek.and.hide.hideandseek)
 
 * [동국헬퍼 - 동국대학교 자동시간표](https://play.google.com/store/apps/details?id=com.planner.dgu.dguplan)
@@ -70,17 +80,18 @@
 * Go언어 및 Java언어를 이용한 동시성(Concurrency in Go and Java - IEEE, 2014) 재현 프로그램 구현[on Github](https://github.com/yjham2002/ConcurrencyTest_Java)
 
 **특이사항**
+
 * Erlang을 이용한 간단한 서버 구현 경험
 * Go를 이용한 동시성 채팅 서버 프로그램 구현 경험
 
-***
-
 ## 세부정보
+
 ### [건설정보 영업맨 - 검색없는 맞춤형 건설정보 알림앱](https://play.google.com/store/apps/details?id=com.dgu.lelab.bid.bidinfo)
 
 *건설정보 영업맨은 건설 관련 용역, 재화 그리고 공사 정보의 입찰 정보를 키워드 기반으로 사용자에게 알리는 정보 제공 플랫폼 앱입니다.*
 
 **개요**
+
 * 자신이 입찰 공고를 직접 작성하고 사용자들과 이를 공유하고, 관심 있는 회원과 빠르게 연결될 수 있도록 알림 서비스를 제공합니다.
 
 * 입찰 정보를 하루 4회 크론탭으로 스케쥴링된 Java 기반의 자체 제작 대규모 크롤러가 약 200개의 웹사이트로부터 크롤링합니다.
@@ -109,11 +120,13 @@
 **오픈소스 라이센스** 
 
 * [JSoup : Java HTML Parser](https://jsoup.org) - 크롤러
-* 
+
 ### [유니테이블 - 우리 모두의 시간표](https://play.google.com/store/apps/details?id=com.dgu.table.univ.univtable)
-*유니테이블은 국내 대학을 대상으로하는 자동 시간표 및 자동 과제관리와 더불어 자동 GPS기반 출결관리 앱입니다.*
+
+* 유니테이블은 국내 대학을 대상으로하는 자동 시간표 및 자동 과제관리와 더불어 자동 GPS기반 출결관리 앱입니다.*
 
 **개요**
+
 * 전공 과목인 소프트웨어공학개론에서 진행된 프로젝트로서 진행된 본 앱은 애자일 프로세스를 적용하여 수행되었습니다.
 
 * 현재 운용되는 모든 대학 시간표 앱들은 모두 자신의 수업을 수기로 입력하거나 수업을 일일히 선택하여 배치해야 하며, 과제의 경우, 대학에서 운영하는 웹사이트에 접속하여 과목을 선택하여 봐야하는 접근성 측면에서의 큰 불편을 가지고 있습니다.
@@ -129,6 +142,7 @@
 * 커뮤니티 및 회원간 채팅 기능
 
 **특징**
+
 * 회원가입이 전혀 필요하지 않으며, 학사 정보로 로그인하여 모든 정보를 별도의 조작없이 확인합니다.
 
 * 별도의 조작없이 모든 시간표와 과제 목록을 보여줍니다.
@@ -142,11 +156,13 @@
 * ![소개 이미지 - 유니테이블02](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-9/11143539_1631924167044007_5431670694314137520_n.jpg?oh=dea16b5ff1c2601d1b400a1927560dcb&oe=5607C5C6&__gda__=1442807520_2d3107a0083218110785262cca45eff5)
 
 **협업 및 프로세스 관리도구**
+
 * [Github](https://github.com/yjham2002/UnivTable)
 
 * 문서 작업(스프린트 백로그, 리플렉션 리포트 등)을 통한 스프린트 관리
 
 **오픈소스 라이센스** 
+
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) 
 
 * [JSoup : Java HTML Parser](https://jsoup.org)
@@ -163,7 +179,7 @@
 
 ### [HideAndSeek - 혼자하는 술래잡기](https://play.google.com/store/apps/details?id=com.now.seek.and.hide.hideandseek)
 
-*HideAndSeek은 GPS를 기반으로 혼자 술래잡기를 할 수 있는 안드로이드 게임 앱으로 구글 게임 서비스를 통해 경쟁을 할 수도 있습니다.*
+* HideAndSeek은 GPS를 기반으로 혼자 술래잡기를 할 수 있는 안드로이드 게임 앱으로 구글 게임 서비스를 통해 경쟁을 할 수도 있습니다.*
 
 **개요**
 
