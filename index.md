@@ -4,13 +4,13 @@
 
 ![Profile_img](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/%EC%97%AC%EA%B6%8C%EC%82%AC%EC%A7%84.JPG)
 
-- Keyword : C, C++, Java, Python, VB, MySQL, HTML, CSS, Web/UI/UX/BI/CI Design
+- Keyword : PHP, Javascript, jQuery, Thrift, Spring, Java, ASP, C, C++, C#, Python, VisualBasic, MySQL, Oracle
 
 ## 프로필
 
 **생년월일** 
 
-* 1993년 10월 18일 출생 (서울특별시 논현동 출생)
+* 1993년 10월 18일 출생 (서울특별시 방배동 출생)
 
 **이메일** 
 
@@ -46,6 +46,8 @@
 
 * **2016.12 ~ 2016.12** - 동국대학교 컴퓨터공학과 주최 '소프트웨어공학 프로젝트' 우수상(동국대학교 컴퓨터공학과장상) 수상
 
+* **2017.01.13 ~ now( )** - (주)리치웨어시스템즈 백엔드 및 웹 프론트 개발자로 재직중
+
 **외국어**
 
 * **TOEIC** - 805
@@ -55,6 +57,27 @@
 * 캐나다 유학 1년 6개월
 
 ## 요약
+
+**Web Application Server & Web Front**
+
+* Uni-Farm iot 기반 스마트팜 서비스- WAS server(PHP) & TCP/IP server 보조(Spark) & Web/Hybrid App Front
+
+* 땅땅치킨 주문 서비스 - WAS server(PHP) 및 Admin Web Front
+
+* [솔로에서 커플까지 데이팅 서비스 - WAS server(Thrift) & Admin Web Front](https://play.google.com/store/apps/details?id=com.appg.solcou)
+
+* 매드클라우드 리워드 서비스 보조 - WAS server(Spring) & Hybrid App Front 
+
+* [MentalDoctor 명상 음원 서비스 추가개발 - WAS server(PHP) & Admin Web Front](https://play.google.com/store/apps/details?id=com.appg.mentaldoctor)
+
+* [한중특장 특장차 서비스 - WAS server(PHP) & Admin Web Front](https://play.google.com/store/apps/details?id=com.appg.hanjungtukjang)
+
+* 서울대소아과병원 PSA - WAS server(PHP) & Admin Web Front & Hybrid App Front 
+
+* [한성냉열 내부 직원용 서비스 - WAS server(PHP) & Admin Web Front & Hybrid App Front](https://play.google.com/store/search?q=%ED%95%9C%EC%84%B1%EB%83%89%EC%97%B4&c=apps)
+
+* 동네의 발견 - WAS server(PHP) & Admin Web Front & Hybrid page Front
+
 
 **Android 네이티브 어플리케이션** 
 
@@ -85,6 +108,8 @@
 * Go를 이용한 동시성 채팅 서버 프로그램 구현 경험
 
 ## 세부정보
+### Uni-Farm
+
 
 ### [건설정보 영업맨 - 검색없는 맞춤형 건설정보 알림앱](https://play.google.com/store/apps/details?id=com.dgu.lelab.bid.bidinfo)
 
