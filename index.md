@@ -110,6 +110,22 @@
 ## 세부정보
 ### Uni-Farm
 
+### 땅땅치킨 - 치킨 주문 및 관리 시스템 (출시이전)
+*사용자 App, 점주용 App, 전체관리자 Web, 점주용 관리자 Web으로 이루어진 주문 및 이벤트 서비스*
+
+**개요**
+
+* 관리자에서 매장 생성시 점주와 매칭하고 메뉴를 매칭하여 사용자에게 정보를 선택적으로 노출 할 수 있습니다.
+* 등록된 매장 주소(Daum 주소 API)의 위/경도를 google geolocation API 를 사용하여 추출하여 해당 위치 중심으로 google map API와 오픈소스 라이브러리인 jsts를 연동하여 배달 가능 영역 설정 및 중복영역 제한을 할 수 있습니다.
+* 사용자 App, 점주용 App에 푸시 서비스를 통한 알림 서비스를 제공합니다.
+* 점주용 관리자에는 Chrome push를 연동하여 App 외에도 들어온 주문을 확인할 수단을 제공합니다.
+* NICE 신용평가 서비스를 통한 회원 검증, whois sms 서비스를 통한 비밀번호 찾기 수단을 제공합니다.
+* LG U+ PG 연동을 통한 App내 결제 서비스를 제공합니다.
+* 배달주문, 방문수령주문 등 다양한 주문 종류를 제공합니다.
+
+**특징**
+
+* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
 
 ### [건설정보 영업맨 - 검색없는 맞춤형 건설정보 알림앱](https://play.google.com/store/apps/details?id=com.dgu.lelab.bid.bidinfo)
 
@@ -234,4 +250,4 @@
 
 **오픈소스 라이센스** 
 
-* [GoogleMap API](https://console.developers.google.com/) 
+* [GoogleMap API](https://console.developers.google.com/)
