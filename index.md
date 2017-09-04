@@ -66,7 +66,7 @@
 
 * [솔로에서 커플까지 데이팅 서비스 - WAS server(Thrift) & Admin Web Front](https://play.google.com/store/apps/details?id=com.appg.solcou)
 
-* 매드클라우드 리워드 서비스 보조 - WAS server(Spring) & Hybrid App Front 
+* Adward 리워드 서비스 보조 - WAS server(Spring) & Hybrid App Front 
 
 * [MentalDoctor 명상 음원 서비스 추가개발 - WAS server(PHP) & Admin Web Front](https://play.google.com/store/apps/details?id=com.appg.mentaldoctor)
 
@@ -108,10 +108,18 @@
 * Go를 이용한 동시성 채팅 서버 프로그램 구현 경험
 
 ## 세부정보
+
 ### Uni-Farm
+**
+
+**개요**
+
+**특징**
+* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+
 
 ### 땅땅치킨 - 치킨 주문 및 관리 시스템 (출시이전)
-*사용자 App, 점주용 App, 전체관리자 Web, 점주용 관리자 Web으로 이루어진 주문 및 이벤트 서비스*
+*사용자 App(native), 점주용 App(native), 전체관리자 Web, 점주용 관리자 Web으로 이루어진 주문 및 이벤트 서비스*
 
 **개요**
 
@@ -126,6 +134,68 @@
 **특징**
 
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+
+### [솔로에서 커플까지 - 소개팅 서비스](https://play.google.com/store/apps/details?id=com.appg.solcou)
+*소개팅 매치 및 참여도에 따른 리워딩 서비스 (Android, IOS native app)*
+
+**개요**
+* 이모티콘, 사진 및 동영상 업로드를 포함한 채팅 솔루션을 탑재하여 회원 간에 원활한 대화가 가능합니다
+* Facebook, Kakao, Naver 소셜 로그인을 통한 손쉬운 가입이 가능합니다
+* 추천인 코드를 통한 리워드를 제공합니다
+* 인앱 결제를 포함하여 안전하게 결제를 진행 할 수 있습니다
+* 디바이스 주소록에 접근하는 아는사람 만나지 않기 기능을 제공하여 등록된 연락처를 가진 사람을 피할 수 있습니다
+* 
+
+**특징**
+* WAS는 Thrift(Java), Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다
+
+### Adward - 광고 및 미니게임 수행에 따른 리워딩 앱 (출시이전)
+*hybrid App, Admin Web 으로 이루어진 리워딩 서비스*
+
+**개요**
+
+**특징**
+* WAS는 Spring(Java), Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+
+### [MentalDoctor - 명상 음원 서비스 네이티브 앱](https://play.google.com/store/apps/details?id=com.appg.mentaldoctor)
+*Android, IOS native app, Admin Web으로 이루어진, 다국어를 지원하는 음원 서비스*
+
+**개요**
+
+**특징**
+* WAS는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+
+### [한중특장 - 특장차 견적 및 커뮤니티 서비스](https://play.google.com/store/apps/details?id=com.appg.hanjungtukjang)
+*Android App, Admin Web 으로 이루어진 특장차 견적문의 시스템*
+
+**개요**
+
+**특징**
+* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+
+### 서울대소아과병원 PSA - 간편진단 서비스(출시이전)
+*hybrid App, Admin Web 으로 이루어진 *
+
+**개요**
+
+**특징**
+* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+
+### [한성냉열 - ](https://play.google.com/store/apps/details?id=com.appg.his)
+
+**개요**
+
+**특징**
+* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+
+### 동네의 발견 - 건물주-입주자 간의 월세/청구서 관리 및 상점 할인 제공 서비스
+**
+
+**개요**
+
+**특징**
+* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+
 
 ### [건설정보 영업맨 - 검색없는 맞춤형 건설정보 알림앱](https://play.google.com/store/apps/details?id=com.dgu.lelab.bid.bidinfo)
 
