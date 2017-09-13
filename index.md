@@ -109,6 +109,9 @@
 
 ## 세부정보
 
+### Duratech
+**
+
 ### Uni-Farm
 **
 
@@ -122,7 +125,6 @@
 *사용자 App(native), 점주용 App(native), 전체관리자 Web, 점주용 관리자 Web으로 이루어진 주문 및 이벤트 서비스*
 
 **개요**
-
 * 관리자에서 매장 생성시 점주와 매칭하고 메뉴를 매칭하여 사용자에게 정보를 선택적으로 노출 할 수 있습니다.
 * 등록된 매장 주소(Daum 주소 API)의 위/경도를 google geolocation API 를 사용하여 추출하여 해당 위치 중심으로 google map API와 오픈소스 라이브러리인 jsts를 연동하여 배달 가능 영역 설정 및 중복영역 제한을 할 수 있습니다.
 * 사용자 App, 점주용 App에 푸시 서비스를 통한 알림 서비스를 제공합니다.
@@ -144,7 +146,6 @@
 * 추천인 코드를 통한 리워드를 제공합니다
 * 인앱 결제를 포함하여 안전하게 결제를 진행 할 수 있습니다
 * 디바이스 주소록에 접근하는 아는사람 만나지 않기 기능을 제공하여 등록된 연락처를 가진 사람을 피할 수 있습니다
-* 
 
 **특징**
 * WAS는 Thrift(Java), Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다
@@ -173,13 +174,18 @@
 **특징**
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
 
-### 서울대소아과병원 PSA - 간편진단 서비스(출시이전)
-*hybrid App, Admin Web 으로 이루어진 *
+### [서울대소아과병원 PSA - 소아 진정 및 진통 서비스](https://play.google.com/store/apps/details?id=com.appg.hybrid.psa)
+*hybrid App, Admin Web 으로 이루어진 ,의료진에게 PSA (Procedural Sedation and Analgesia)를 소개하고  적절한 PSA 방법 및 약물을 선택하고 시행할 수 있도록 도움을 주기 위한 서비스*
 
 **개요**
+* Admin Web에서 등록한 각 PSA case 별 결과/주의사항/체중별 적절 용량을 App에서 확인할 수 있습니다.
+* Admin Web에서 등록한 참고자료 pdf 파일을 pdfViewer app으로 리다이렉트하여 사용자에게 노출합니다.
 
 **특징**
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+*  ![img1-snuh](//lh3.googleusercontent.com/mNfidE7RYPdRSImOubwupQP_ygtGHUdUdOWoProrg1GLzuCYOAb5ZT2z3CSFDRHy97Yl=h900-rw)
+*  ![img2-snuh](//lh3.googleusercontent.com/PyTehJ5pI21A1FZ3kOlvMk8pxiZpstxt9ygYgc3e1sjQNPfjRCHmZvMcCyfahyGwbSyv=h900-rw)
+*  ![img3-snuh](//lh3.googleusercontent.com/5LKj0DghnCvD_mbyyTS2VomP6ERZoGQsZdV89UaMHapWX0Q1AUbTVtjVprUJ5bn-pBHE=h900-rw)
 
 ### [한성냉열 - ](https://play.google.com/store/apps/details?id=com.appg.his)
 
