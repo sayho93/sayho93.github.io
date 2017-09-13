@@ -60,7 +60,9 @@
 
 **Web Application Server & Web Front**
 
-* Uni-Farm iot 기반 스마트팜 서비스- WAS server(PHP) & TCP/IP server 보조(Spark) & Web/Hybrid App Front
+* [Uni-Farm iot 기반 스마트팜 서비스- WAS server(PHP) & TCP/IP server 보조(Spark) & Web/Hybrid App Front](www.uni-farm.co.kr)
+
+* Duratech iot 기반 서비스 - Service Web Front & Hybrid App Front & Admin Web Front
 
 * 땅땅치킨 주문 서비스 - WAS server(PHP) 및 Admin Web Front
 
@@ -72,11 +74,13 @@
 
 * [한중특장 특장차 서비스 - WAS server(PHP) & Admin Web Front](https://play.google.com/store/apps/details?id=com.appg.hanjungtukjang)
 
-* 서울대소아과병원 PSA - WAS server(PHP) & Admin Web Front & Hybrid App Front 
+* [서울대소아과병원 PSA - WAS server(PHP) & Admin Web Front & Hybrid App Front](https://play.google.com/store/apps/details?id=com.appg.hybrid.psa) 
 
 * [한성냉열 내부 직원용 서비스 - WAS server(PHP) & Admin Web Front & Hybrid App Front](https://play.google.com/store/search?q=%ED%95%9C%EC%84%B1%EB%83%89%EC%97%B4&c=apps)
 
-* 동네의 발견 - WAS server(PHP) & Admin Web Front & Hybrid page Front
+* 동네의 발견 - WAS server(PHP) & Admin Web Front & Hybrid App Front
+
+* 솔론 - WAS server(PHP) & Admin Web Front & Hybrid App Front
 
 
 **Android 네이티브 어플리케이션** 
