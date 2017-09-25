@@ -82,6 +82,7 @@
 
 * 솔론 - WAS server(PHP) & Admin Web Front & Hybrid App Front
 
+* 연애조작단 - WAS server)(ASP)
 
 **Android 네이티브 어플리케이션** 
 
@@ -174,9 +175,17 @@
 *Android App, Admin Web 으로 이루어진 특장차 견적문의 시스템*
 
 **개요**
+* 직원, 사용자의 계정을 분리하여 동일한 앱에서 문의와 답변이 모두 가능합니다.
+* 자유 게시판과 계층화된 댓글 구조를 지원하여 사용자간 소통이 용이합니다.
+* 구글 캘린더를 연동하여 상담 가능 요일의 설정이 용이합니다.
+* 푸시 메세지를 통한 견적 문의 알림 기능을 제공합니다.
+* 
 
 **특징**
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+* ![img1-kc](https://lh3.googleusercontent.com/u-1xw2MdoYIsb43TIirQ_0Q9dNXgrMCQoFSW6eC55yw-W6fS2RAS5WTzTA-LqnQhs04=h900-rw)
+* ![img2-kc](https://lh3.googleusercontent.com/IkYrA05ePBPtdodW5PZYNPAATB5ZVYufoy4qEub1NEWMGhT3YQ_hPVQ09AdBU3wJOw=h900-rw)
+
 
 ### [서울대소아과병원 PSA - 소아 진정 및 진통 서비스](https://play.google.com/store/apps/details?id=com.appg.hybrid.psa)
 *hybrid App, Admin Web 으로 이루어진 ,의료진에게 PSA (Procedural Sedation and Analgesia)를 소개하고  적절한 PSA 방법 및 약물을 선택하고 시행할 수 있도록 도움을 주기 위한 서비스*
@@ -187,9 +196,9 @@
 
 **특징**
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
-*  ![img1-snuh](//lh3.googleusercontent.com/mNfidE7RYPdRSImOubwupQP_ygtGHUdUdOWoProrg1GLzuCYOAb5ZT2z3CSFDRHy97Yl=h900-rw)
-*  ![img2-snuh](//lh3.googleusercontent.com/PyTehJ5pI21A1FZ3kOlvMk8pxiZpstxt9ygYgc3e1sjQNPfjRCHmZvMcCyfahyGwbSyv=h900-rw)
-*  ![img3-snuh](//lh3.googleusercontent.com/5LKj0DghnCvD_mbyyTS2VomP6ERZoGQsZdV89UaMHapWX0Q1AUbTVtjVprUJ5bn-pBHE=h900-rw)
+*  ![img1-snuh](https://lh3.googleusercontent.com/mNfidE7RYPdRSImOubwupQP_ygtGHUdUdOWoProrg1GLzuCYOAb5ZT2z3CSFDRHy97Yl=h900-rw)
+*  ![img2-snuh](https://lh3.googleusercontent.com/PyTehJ5pI21A1FZ3kOlvMk8pxiZpstxt9ygYgc3e1sjQNPfjRCHmZvMcCyfahyGwbSyv=h900-rw)
+*  ![img3-snuh](https://lh3.googleusercontent.com/5LKj0DghnCvD_mbyyTS2VomP6ERZoGQsZdV89UaMHapWX0Q1AUbTVtjVprUJ5bn-pBHE=h900-rw)
 
 ### [한성냉열 - ](https://play.google.com/store/apps/details?id=com.appg.his)
 
@@ -199,9 +208,12 @@
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
 
 ### 동네의 발견 - 건물주-입주자 간의 월세/청구서 관리 및 상점 할인 제공 서비스
-**
+*아파트/오피스텔 근처의 상점 정보 및 할인 정보를 제공하고 월세/공과금/퇴실정산서 기능을 제공하는 서비스*
 
 **개요**
+* google map API를 연동하여 주변의 제휴 상점 목록을 손쉽게 알 수 있도록 표시합니다.
+* 월세 및 공과금의 내역을 한 눈에 확인 할 수 있고 미납된 금액이 있을 시 누적되어 계산하여 익월 청구서에 반영되어 지불해야 할 금액을 명확히 알 수 있습니다.
+
 
 **특징**
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
