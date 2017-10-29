@@ -132,7 +132,9 @@
 * 그래프를 통해 지난 1/3/7/10 일의 데이터 추이를 한 눈에 볼 수 있습니다.
 * 사용자 권한 부여를 통해 보여질 농가 및 조작할 수 있는 데이터를 지정할 수 있습니다.
 * 타이머 설정, 일령 설정, 운전 모드별 설정 등을 등록하여 기계의 운전모드를 제어할 수 있습니다.
+
 **특징**
+
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
 * ![img1-uni](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_1.png)
 * ![img1-uni_2](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_2.png)
@@ -181,9 +183,15 @@
 
 **개요**
 
+* 5개 언어로 서비스하는 명상 힐링 음원서비스 입니다.
+* 각 심리 카테고리별로 수많은 음원이 존재합니다.
+* 다양한 이용권을 통해 서비스를 효과적으로 사용하도록 유도합니다.
 
 **특징**
+
 * WAS는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+* ![img1-mentalDr](https://lh3.googleusercontent.com/j7YofNHITogkHHHUX2IJLYclGV2xdk_VJaczxo5CJtbeJqGpttpOzBbKyJ2Oo99APFs1=h900-rw)
+* ![img2-mentalDr](https://lh3.googleusercontent.com/QDtjlf1XEAMJiA7lICwK3zY-nEuvdZ58Dt2TkGSKpslD8zlFyBblMGOsKYF07HY1CNiw=h900-rw)
 
 ### [한중특장 - 특장차 견적 및 커뮤니티 서비스](https://play.google.com/store/apps/details?id=com.appg.hanjungtukjang)
 *Android App, Admin Web 으로 이루어진 특장차 견적문의 시스템*
