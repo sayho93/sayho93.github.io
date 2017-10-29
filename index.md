@@ -115,15 +115,27 @@
 ## 세부정보
 
 ### Duratech
-**
-
-### Uni-Farm
-**
+** 
 
 **개요**
 
 **특징**
+* PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+
+### Uni-Farm
+*TCP 서버, 사용자 App, 사용자 Web 으로 이루어진 IOT 기반 농장관리 시스템* 
+
+**개요**
+* 화면을 통해 기계로 들어오고 있는 실시간 데이터를 확일 할 수 있습니다.
+* 단순히 아이콘을 클릭하는 것 만으로도 기계의 전원 및 상태를 조작할 수 있습니다.
+* 데이터 로거를 통해 지난 실시간 데이터들의 기록을 조회할 수 있습니다.
+* 그래프를 통해 지난 1/3/7/10 일의 데이터 추이를 한 눈에 볼 수 있습니다.
+* 사용자 권한 부여를 통해 보여질 농가 및 조작할 수 있는 데이터를 지정할 수 있습니다.
+* 타이머 설정, 일령 설정, 운전 모드별 설정 등을 등록하여 기계의 운전모드를 제어할 수 있습니다.
+**특징**
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+* ![img1-uni](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_1.png)
+* ![img1-uni_2](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_2.png)
 
 
 ### 땅땅치킨 - 치킨 주문 및 관리 시스템 (출시이전)
@@ -151,6 +163,7 @@
 * 추천인 코드를 통한 리워드를 제공합니다
 * 인앱 결제를 포함하여 안전하게 결제를 진행 할 수 있습니다
 * 디바이스 주소록에 접근하는 아는사람 만나지 않기 기능을 제공하여 등록된 연락처를 가진 사람을 피할 수 있습니다
+* 악용하는 회원의 제재를 위한 신고 시스템이 존재합니다. 
 
 **특징**
 * WAS는 Thrift(Java), Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다
@@ -167,6 +180,7 @@
 *Android, IOS native app, Admin Web으로 이루어진, 다국어를 지원하는 음원 서비스*
 
 **개요**
+
 
 **특징**
 * WAS는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
@@ -200,9 +214,10 @@
 *  ![img2-snuh](https://lh3.googleusercontent.com/PyTehJ5pI21A1FZ3kOlvMk8pxiZpstxt9ygYgc3e1sjQNPfjRCHmZvMcCyfahyGwbSyv=h900-rw)
 *  ![img3-snuh](https://lh3.googleusercontent.com/5LKj0DghnCvD_mbyyTS2VomP6ERZoGQsZdV89UaMHapWX0Q1AUbTVtjVprUJ5bn-pBHE=h900-rw)
 
-### [한성냉열 - ](https://play.google.com/store/apps/details?id=com.appg.his)
+### [한성냉열 - 유지보수 업무관리 시스템](https://play.google.com/store/apps/details?id=com.appg.his)
 
 **개요**
+* 내부 직원용 서비스로, 유지보수 업무(점포 할당, 부품 내역 및 점검 히스토리)에 관한 내용을 손쉽게 파악하고 관리를 할 수 있습니다.
 
 **특징**
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
