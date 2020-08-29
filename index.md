@@ -334,7 +334,7 @@
 
 ### [HideAndSeek - 혼자하는 술래잡기](https://play.google.com/store/apps/details?id=com.now.seek.and.hide.hideandseek)
 
-* HideAndSeek은 GPS를 기반으로 혼자 술래잡기를 할 수 있는 안드로이드 게임 앱으로 구글 게임 서비스를 통해 경쟁을 할 수도 있음*
+* HideAndSeek은 GPS를 기반으로 혼자 술래잡기를 할 수 있는 안드로이드 게임 앱으로 구글 게임 서비스를 통해 경쟁을 할 수도 있음
 
 **개요**
 
