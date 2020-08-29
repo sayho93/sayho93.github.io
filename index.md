@@ -113,16 +113,16 @@
 *TCP 서버, 사용자 App, 사용자 Web 으로 이루어진 IOT 기반 농장관리 시스템* 
 
 **개요**
-* 화면을 통해 기계로 들어오고 있는 실시간 데이터를 확인.
-* 단순히 아이콘을 클릭하는 것 만으로 기계의 전원 및 상태 조작.
-* 데이터 로거를 통해 지난 실시간 데이터들의 기록 조회.
-* 그래프를 통해 지난 1/3/7/10 일의 데이터 추이를 한 눈에 볼 수 있습니다.
-* 사용자 권한 부여를 통해 보여질 농가 및 조작할 수 있는 데이터를 지정할 수 있습니다.
-* 타이머 설정, 일령 설정, 운전 모드별 설정 등을 등록하여 기계의 운전모드를 제어할 수 있습니다.
+* 화면을 통해 기계로 들어오고 있는 실시간 데이터를 확인
+* 단순히 아이콘을 클릭하는 것 만으로 기계의 전원 및 상태 조작
+* 데이터 로거를 통해 지난 실시간 데이터들의 기록 조회
+* 그래프를 통해 지난 1/3/7/10 일의 데이터 추이를 한 눈에 볼 수 있음
+* 사용자 권한 부여를 통해 보여질 농가 및 조작할 수 있는 데이터를 지정
+* 타이머 설정, 일령 설정, 운전 모드별 설정 등을 등록하여 기계의 운전모드를 제어
 
 **특징**
 
-* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 개발.
+* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반
 <!-- * ![img1-uni](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_1.png) -->
 <!-- * ![img2-uni](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_2.png) -->
 <p align="center">
@@ -130,56 +130,56 @@
     <img src="https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_2.png" alt="img2-uni" width="800"/>
 </p>
 
-### 땅땅치킨 - 치킨 주문 및 관리 시스템 (출시이전)
+### 땅땅치킨 - 치킨 주문 및 관리 시스템
 *사용자 App(native), 점주용 App(native), 전체관리자 Web, 점주용 관리자 Web으로 이루어진 주문 및 이벤트 서비스*
 
 **개요**
-* 관리자에서 매장 생성시 점주와 매칭하고 메뉴를 매칭하여 사용자에게 정보를 선택적으로 노출 할 수 있습니다.
-* 등록된 매장 주소(Daum 주소 API)의 위/경도를 google geolocation API 를 사용하여 추출하여 해당 위치 중심으로 google map API와 오픈소스 라이브러리인 jsts를 연동하여 배달 가능 영역 설정 및 중복영역 제한을 할 수 있습니다.
-* 사용자 App, 점주용 App에 푸시 서비스를 통한 알림 서비스를 제공합니다.
-* 점주용 관리자에는 Chrome push를 연동하여 App 외에도 들어온 주문을 확인할 수단을 제공합니다.
-* NICE 신용평가 서비스를 통한 회원 검증, whois sms 서비스를 통한 비밀번호 찾기 수단을 제공합니다.
-* LG U+ PG 연동을 통한 App내 결제 서비스를 제공합니다.
-* 배달주문, 방문수령주문 등 다양한 주문 종류를 제공합니다.
+* 관리자에서 매장 생성시 점주와 매칭하고 메뉴를 매칭하여 사용자에게 정보를 선택적으로 노출
+* 등록된 매장 주소(Daum 주소 API)의 위/경도를 google geolocation API 를 사용하여 추출하여 해당 위치 중심으로 google map API와 오픈소스 라이브러리인 jsts를 연동하여 배달 가능 영역 설정 및 중복영역 제한을 할 수 있음
+* 사용자 App, 점주용 App에 푸시 서비스를 통한 알림 서비스를 제공
+* 점주용 관리자에는 Chrome push를 연동하여 App 외에도 들어온 주문을 확인할 수단을 제공
+* NICE 신용평가 서비스를 통한 회원 검증, whois sms 서비스를 통한 비밀번호 찾기 수단을 제공
+* LG U+ PG 연동을 통한 App내 결제 서비스를 제공
+* 배달주문, 방문수령주문 등 다양한 주문 종류를 제공
 
 **특징**
 
-* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css
 
 ### [솔로에서 커플까지 - 소개팅 서비스](https://play.google.com/store/apps/details?id=com.appg.solcou)
 *소개팅 매치 및 참여도에 따른 리워딩 서비스 (Android, IOS native app)*
 
 **개요**
-* 이모티콘, 사진 및 동영상 업로드를 포함한 채팅 솔루션을 탑재하여 회원 간에 원활한 대화가 가능합니다
-* Facebook, Kakao, Naver 소셜 로그인을 통한 손쉬운 가입이 가능합니다
-* 추천인 코드를 통한 리워드를 제공합니다
-* 인앱 결제를 포함하여 안전하게 결제를 진행 할 수 있습니다
-* 디바이스 주소록에 접근하는 아는사람 만나지 않기 기능을 제공하여 등록된 연락처를 가진 사람을 피할 수 있습니다
-* 악용하는 회원의 제재를 위한 신고 시스템이 존재합니다. 
+* 이모티콘, 사진 및 동영상 업로드를 포함한 채팅 솔루션을 탑재하여 회원 간에 원활한 대화가 가능
+* Facebook, Kakao, Naver 소셜 로그인을 통한 손쉬운 가입
+* 추천인 코드를 통한 리워드를 제공
+* 인앱 결제를 포함하여 안전하게 결제를 진행
+* 디바이스 주소록에 접근하는 아는사람 만나지 않기 기능을 제공하여 등록된 연락처를 가진 사람을 피할 수 있음
+* 악용하는 회원의 제재를 위한 신고 시스템이 존재 
 
 **특징**
-* WAS는 Thrift(Java), Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다
+* WAS는 Thrift(Java), Front는 PHP+jQuery+javascript+html+css
 
-### Adward - 광고 및 미니게임 수행에 따른 리워딩 앱 (출시이전)
+### Adward - 광고 및 미니게임 수행에 따른 리워딩 앱
 *hybrid App, Admin Web 으로 이루어진 리워딩 서비스*
 
 **개요**
 
 **특징**
-* WAS는 Spring(Java), Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+* WAS는 Spring(Java), Front는 PHP+jQuery+javascript+html+css
 
 ### [MentalDoctor - 명상 음원 서비스 네이티브 앱](https://play.google.com/store/apps/details?id=com.appg.mentaldoctor)
 *Android, IOS native app, Admin Web으로 이루어진, 다국어를 지원하는 음원 서비스*
 
 **개요**
 
-* 5개 언어로 서비스하는 명상 힐링 음원서비스 입니다.
-* 각 심리 카테고리별로 수많은 음원이 존재합니다.
-* 다양한 이용권을 통해 서비스를 효과적으로 사용하도록 유도합니다.
+* 5개 언어로 서비스하는 명상 힐링 음원서비스
+* 각 심리 카테고리별로 수많은 음원이 존재
+* 다양한 이용권을 통해 서비스를 효과적으로 사용하도록 유도
 
 **특징**
 
-* WAS는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+* WAS는 PHP, Front는 PHP+jQuery+javascript+html+css
 <p align="center">
     <img src="https://lh3.googleusercontent.com/j7YofNHITogkHHHUX2IJLYclGV2xdk_VJaczxo5CJtbeJqGpttpOzBbKyJ2Oo99APFs1=h900-rw" alt="img1-mentalDr" width="250"/> 
     <img src="https://lh3.googleusercontent.com/QDtjlf1XEAMJiA7lICwK3zY-nEuvdZ58Dt2TkGSKpslD8zlFyBblMGOsKYF07HY1CNiw=h900-rw" alt="img2-mentalDr" width="250"/> 
@@ -193,14 +193,14 @@
 *Android App, Admin Web 으로 이루어진 특장차 견적문의 시스템*
 
 **개요**
-* 직원, 사용자의 계정을 분리하여 동일한 앱에서 문의와 답변이 모두 가능합니다.
-* 자유 게시판과 계층화된 댓글 구조를 지원하여 사용자간 소통이 용이합니다.
-* 구글 캘린더를 연동하여 상담 가능 요일의 설정이 용이합니다.
-* 푸시 메세지를 통한 견적 문의 알림 기능을 제공합니다.
+* 직원, 사용자의 계정을 분리하여 동일한 앱에서 문의와 답변이 모두 가능
+* 자유 게시판과 계층화된 댓글 구조를 지원하여 사용자간 소통이 용이
+* 구글 캘린더를 연동하여 상담 가능 요일의 설정이 용이
+* 푸시 메세지를 통한 견적 문의 알림 기능을 제공
 * 
 
 **특징**
-* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css
 
 <p align="center">
     <img src="https://lh3.googleusercontent.com/u-1xw2MdoYIsb43TIirQ_0Q9dNXgrMCQoFSW6eC55yw-W6fS2RAS5WTzTA-LqnQhs04=h900-rw" alt="img1-kc" width="250"/> 
@@ -216,8 +216,8 @@
 *hybrid App, Admin Web 으로 이루어진 ,의료진에게 PSA (Procedural Sedation and Analgesia)를 소개하고  적절한 PSA 방법 및 약물을 선택하고 시행할 수 있도록 도움을 주기 위한 서비스*
 
 **개요**
-* Admin Web에서 등록한 각 PSA case 별 결과/주의사항/체중별 적절 용량을 App에서 확인할 수 있습니다.
-* Admin Web에서 등록한 참고자료 pdf 파일을 pdfViewer app으로 리다이렉트하여 사용자에게 노출합니다.
+* Admin Web에서 등록한 각 PSA case 별 결과/주의사항/체중별 적절 용량을 App에서 확인할 수 있음
+* Admin Web에서 등록한 참고자료 pdf 파일을 pdfViewer app으로 리다이렉트하여 사용자에게 노출
 
 **특징**
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
@@ -235,21 +235,21 @@
 ### [한성냉열 - 유지보수 업무관리 시스템](https://play.google.com/store/apps/details?id=com.appg.his)
 
 **개요**
-* 내부 직원용 서비스로, 유지보수 업무(점포 할당, 부품 내역 및 점검 히스토리)에 관한 내용을 손쉽게 파악하고 관리를 할 수 있습니다.
+* 내부 직원용 서비스로, 유지보수 업무(점포 할당, 부품 내역 및 점검 히스토리)에 관한 내용을 손쉽게 파악하고 관리를 할 수 있음.
 
 **특징**
-* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css
 
 ### 동네의 발견 - 건물주-입주자 간의 월세/청구서 관리 및 상점 할인 제공 서비스
 *아파트/오피스텔 근처의 상점 정보 및 할인 정보를 제공하고 월세/공과금/퇴실정산서 기능을 제공하는 서비스*
 
 **개요**
-* google map API를 연동하여 주변의 제휴 상점 목록을 손쉽게 알 수 있도록 표시합니다.
-* 월세 및 공과금의 내역을 한 눈에 확인 할 수 있고 미납된 금액이 있을 시 누적되어 계산하여 익월 청구서에 반영되어 지불해야 할 금액을 명확히 알 수 있습니다.
+* google map API를 연동하여 주변의 제휴 상점 목록을 손쉽게 알 수 있도록 표시
+* 월세 및 공과금의 내역을 한 눈에 확인 할 수 있고 미납된 금액이 있을 시 누적되어 계산하여 익월 청구서에 반영되어 지불해야 할 금액을 명확히 알 수 있음
 
 
 **특징**
-* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css
 
 
 ### [건설정보 영업맨 - 검색없는 맞춤형 건설정보 알림앱](https://play.google.com/store/apps/details?id=com.dgu.lelab.bid.bidinfo)
@@ -257,21 +257,14 @@
 *건설정보 영업맨은 건설 관련 용역, 재화 그리고 공사 정보의 입찰 정보를 키워드 기반으로 사용자에게 알리는 정보 제공 플랫폼 앱입니다.*
 
 **개요**
-
-* 자신이 입찰 공고를 직접 작성하고 사용자들과 이를 공유하고, 관심 있는 회원과 빠르게 연결될 수 있도록 알림 서비스를 제공합니다.
-
-* 입찰 정보를 하루 4회 크론탭으로 스케쥴링된 Java 기반의 자체 제작 대규모 크롤러가 약 200개의 웹사이트로부터 크롤링합니다.
+* 자신이 입찰 공고를 직접 작성하고 사용자들과 이를 공유하고, 관심 있는 회원과 빠르게 연결될 수 있도록 알림 서비스를 제공
+* 입찰 정보를 하루 4회 크론탭으로 스케쥴링된 Java 기반의 자체 제작 대규모 크롤러가 약 200개의 웹사이트로부터 크롤링
 
 
 **특징**
-
-* 입찰 정보를 다수의 사이트로부터 크롤링하여 많고 다양한 최신의 정보를 검색없이 받아볼 수 있습니다.
-
-* 사용자간의 소통을 통해 보다 빠른 회원간 니즈를 매칭합니다.
-
-* (주)경관공학연구소의 외주 업무로서 진행하였습니다.
-
-* 서버단의 크롤러 응용 프로그램 개발 총괄을 진행하였습니다.
+* 입찰 정보를 다수의 사이트로부터 크롤링하여 많고 다양한 최신의 정보를 검색없이 받아볼 수 있음
+* 사용자간의 소통을 통해 보다 빠른 회원간 니즈를 매칭
+* (주)경관공학연구소의 외주 업무로서 진행
 
 <p align="center">
     <img src="https://lh3.googleusercontent.com/jVTuwVamLodvy7Jk3dkVu0eTS4Ydhzdit4uGy6H4N_JqzcDqVEZ9ULYTyfHbyr9eyPc=h900" alt="소개 이미지 - yman01" width="250"/> 
@@ -283,9 +276,7 @@
 * ![소개 이미지 - yman02](https://lh3.googleusercontent.com/VEpf0wo1EcnDvfSLRP3Vt2CC2GBTeat1PP8ee00VIip6m6Z5xxUJc1jjJqxtAVNASQ=h900) -->
 
 **협업 및 프로세스 관리도구**
-
 * 클라이언트 안드로이드 앱 [on Github](https://github.com/yjham2002/BidInfo)
-
 * Node.js 기반 서버 소스 [on Github](https://github.com/yjham2002/bidinfo_server)
 
 **오픈소스 라이센스** 
@@ -330,25 +321,15 @@
 
 
 **협업 및 프로세스 관리도구**
-
 * [Github](https://github.com/yjham2002/UnivTable)
-
 * 문서 작업(스프린트 백로그, 리플렉션 리포트 등)을 통한 스프린트 관리
 
 **오픈소스 라이센스** 
-
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) 
-
 * [JSoup : Java HTML Parser](https://jsoup.org)
-
 * [Android-Week-View](https://github.com/alamkanak/Android-Week-View)
-
 * [Firebase Crash Report](https://firebase.google.com)
-
 * [Firebase Cloud Messaging](https://firebase.google.com)
-
-
-
 
 
 ### [HideAndSeek - 혼자하는 술래잡기](https://play.google.com/store/apps/details?id=com.now.seek.and.hide.hideandseek)
@@ -357,21 +338,15 @@
 
 **개요**
 
-* 혼자 술래잡기를 즐길 수 있는 GPS기반의 네이티브 앱입니다.
-
-* 가상의 술래를 지도에 배치하여 사용자를 따라가도록 합니다.
-
-* 사용자로 하여금 현실에서의 달리기를 유도하여 보다 건강한 동기를 부여할 수 있는 앱입니다.
-
-* 구글 게임 서비스 연동을 통해 사용자간 순위 비교가 가능합니다.
+* 혼자 술래잡기를 즐길 수 있는 GPS기반의 네이티브 앱
+* 가상의 술래를 지도에 배치하여 사용자를 따라가도록 함
+* 사용자로 하여금 현실에서의 달리기를 유도하여 보다 건강한 동기를 부여할 수 있는 앱
+* 구글 게임 서비스 연동을 통해 사용자간 순위 비교가 가능
 
 **특징**
-
-* 구글 계정 기반으로 자동으로 로그인되어 별도의 정보제공이나 회원가입이 필요하지 않습니다.
-
-* 실제 지도를 바탕으로 게임을 구성하여 현실감 있는 플레이를 할 수 있습니다.
-
-* 현재 구글 플레이 사용자 약 1000명이 이용 중입니다. (2016/12/22 기준)
+* 구글 계정 기반으로 자동으로 로그인되어 별도의 정보제공이나 회원가입이 필요하지 않음
+* 실제 지도를 바탕으로 게임을 구성하여 현실감 있는 플레이를 할 수 있음
+* 현재 구글 플레이 사용자 약 1000명이 이용 중(2016/12/22 기준)
 
 <p align="center">
     <img src="https://lh3.googleusercontent.com/XlzHMvNsiT_5kCibqKySahtZbEJCWzagwBNTd_3_7xn2sBLqEE7bHV6X_IovwdTXyAs=h900" alt="소개 이미지 - HideAndSeek01" width="250"/> 
@@ -382,9 +357,7 @@
 <!-- * ![소개 이미지 - HideAndSeek02](https://lh3.googleusercontent.com/WDP5D_Ecm6CgaGqqzlGa-9BGmt5lh8m-3piN1QEPanohX_f1bFTI0sXSR3dsghM98w=h900) -->
 
 **협업 및 프로세스 관리도구**
-
 * [Github](https://github.com/yjham2002/HideAndSeek)
 
 **오픈소스 라이센스** 
-
 * [GoogleMap API](https://console.developers.google.com/)
