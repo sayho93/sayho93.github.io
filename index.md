@@ -125,9 +125,10 @@
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 개발.
 <!-- * ![img1-uni](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_1.png) -->
 <!-- * ![img2-uni](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_2.png) -->
-* <img src="https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_1.png" alt="img1-uni" width="800"/> 
-* <img src="https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_2.png" alt="img2-uni" width="800"/>
-
+<p align="center">
+    <img src="https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_1.png" alt="img1-uni" width="800"/> 
+    <img src="https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_2.png" alt="img2-uni" width="800"/>
+</p>
 
 ### 땅땅치킨 - 치킨 주문 및 관리 시스템 (출시이전)
 *사용자 App(native), 점주용 App(native), 전체관리자 Web, 점주용 관리자 Web으로 이루어진 주문 및 이벤트 서비스*
