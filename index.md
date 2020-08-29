@@ -2,34 +2,27 @@
 
 ## 전세호
 
-![Profile_img](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/%EC%97%AC%EA%B6%8C%EC%82%AC%EC%A7%84.JPG)
-
-- Keyword : PHP, Javascript, jQuery, Thrift, Spring, Java, ASP, C, C++, C#, Python, VisualBasic, MySQL, Oracle
+- Keyword : PHP, Javascript, jQuery, Vue.js, Thrift, Spring, Java, ASP, C, C++, C#, Python, VisualBasic, MySQL, Oracle
 
 ## 프로필
 
 **생년월일** 
-
 * 1993년 10월 18일 출생 (서울특별시 방배동 출생)
 
 **이메일** 
-
 * fishcreek@naver.com
 
 **웹사이트** 
-
 * [GitHub](https://github.com/sayhoChun)
 
 **학력** 
-
-* **2014.03-현재** [동국대학교 컴퓨터공학전공](https://cse.dongguk.edu) 3학년 수료 
+* **2014.03-현재** [동국대학교 컴퓨터공학전공](https://cse.dongguk.edu) 4학년 
 
 **자격증**
-
 * **정보처리산업기사**
+* **정보처리기사**
 
 **경력** 
-
 * **2015.09 ~ 2015.12** - 위치기반 심부름 서비스 Android앱 'CloudBook' 개발참여 
 
 * **2016.06 ~ 2016.07** - 인터넷 클립보드 서비스 Android앱 'CopyNow' 개발참여 
@@ -46,18 +39,15 @@
 
 * **2016.12 ~ 2016.12** - 동국대학교 컴퓨터공학과 주최 '소프트웨어공학 프로젝트' 우수상(동국대학교 컴퓨터공학과장상) 수상
 
-* **2017.01.13 ~ now( )** - (주)리치웨어시스템즈 백엔드 및 웹 프론트 개발자로 재직중
+* **2017.01 ~ 2017.12** - (주)리치웨어시스템즈 백엔드 및 웹 프론트 개발자로 재직(산업기능요원)
+
+* **2017.12 ~ 현재** - PickleCode 사업자
 
 **외국어**
-
 * **TOEIC** - 805
-
-* DTEPS 석차 187
-
 * 캐나다 유학 1년 6개월
 
 ## 요약
-
 **Web Application Server & Web Front**
 
 * [Uni-Farm iot 기반 스마트팜 서비스- WAS server(PHP) & TCP/IP server 보조(Spark) & Web/Hybrid App Front](www.uni-farm.co.kr)
@@ -98,17 +88,14 @@
 
 
 **수상실적**
-
 * 동국대학교 주최 '제1회 동국SW공모대전' 금상(동국대학교 총장상) 수상
 
 * 동국대학교 컴퓨터공학과 주최 '소프트웨어공학 프로젝트' 우수상(동국대학교 컴퓨터공학과장상) 수상
 
 **기타** 
-
 * Go언어 및 Java언어를 이용한 동시성(Concurrency in Go and Java - IEEE, 2014) 재현 프로그램 구현[on Github](https://github.com/yjham2002/ConcurrencyTest_Java)
 
 **특이사항**
-
 * Erlang을 이용한 간단한 서버 구현 경험
 * Go를 이용한 동시성 채팅 서버 프로그램 구현 경험
 
@@ -120,25 +107,25 @@
 **개요**
 
 **특징**
-* PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+* PHP+jQuery+javascript+html+css 기반.
 
 ### Uni-Farm
 *TCP 서버, 사용자 App, 사용자 Web 으로 이루어진 IOT 기반 농장관리 시스템* 
 
 **개요**
-* 화면을 통해 기계로 들어오고 있는 실시간 데이터를 확일 할 수 있습니다.
-* 단순히 아이콘을 클릭하는 것 만으로도 기계의 전원 및 상태를 조작할 수 있습니다.
-* 데이터 로거를 통해 지난 실시간 데이터들의 기록을 조회할 수 있습니다.
+* 화면을 통해 기계로 들어오고 있는 실시간 데이터를 확인.
+* 단순히 아이콘을 클릭하는 것 만으로 기계의 전원 및 상태 조작.
+* 데이터 로거를 통해 지난 실시간 데이터들의 기록 조회.
 * 그래프를 통해 지난 1/3/7/10 일의 데이터 추이를 한 눈에 볼 수 있습니다.
 * 사용자 권한 부여를 통해 보여질 농가 및 조작할 수 있는 데이터를 지정할 수 있습니다.
 * 타이머 설정, 일령 설정, 운전 모드별 설정 등을 등록하여 기계의 운전모드를 제어할 수 있습니다.
 
 **특징**
 
-* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
-* ![img1-uni](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_1.png)
+* WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 개발.
+<!-- * ![img1-uni](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_1.png) -->
+* <img src="https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_1.png" alt="img1-uni" width="800"/> 
 * ![img1-uni_2](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_2.png)
-
 
 ### 땅땅치킨 - 치킨 주문 및 관리 시스템 (출시이전)
 *사용자 App(native), 점주용 App(native), 전체관리자 Web, 점주용 관리자 Web으로 이루어진 주문 및 이벤트 서비스*
@@ -190,8 +177,12 @@
 **특징**
 
 * WAS는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
-* ![img1-mentalDr](https://lh3.googleusercontent.com/j7YofNHITogkHHHUX2IJLYclGV2xdk_VJaczxo5CJtbeJqGpttpOzBbKyJ2Oo99APFs1=h900-rw)
-* ![img2-mentalDr](https://lh3.googleusercontent.com/QDtjlf1XEAMJiA7lICwK3zY-nEuvdZ58Dt2TkGSKpslD8zlFyBblMGOsKYF07HY1CNiw=h900-rw)
+
+<img src="https://lh3.googleusercontent.com/j7YofNHITogkHHHUX2IJLYclGV2xdk_VJaczxo5CJtbeJqGpttpOzBbKyJ2Oo99APFs1=h900-rw" alt="img1-mentalDr" width="250"/> 
+<img src="https://lh3.googleusercontent.com/QDtjlf1XEAMJiA7lICwK3zY-nEuvdZ58Dt2TkGSKpslD8zlFyBblMGOsKYF07HY1CNiw=h900-rw" alt="img2-mentalDr" width="250"/> 
+
+<!-- * ![img1-mentalDr](https://lh3.googleusercontent.com/j7YofNHITogkHHHUX2IJLYclGV2xdk_VJaczxo5CJtbeJqGpttpOzBbKyJ2Oo99APFs1=h900-rw) -->
+<!-- * ![img2-mentalDr](https://lh3.googleusercontent.com/QDtjlf1XEAMJiA7lICwK3zY-nEuvdZ58Dt2TkGSKpslD8zlFyBblMGOsKYF07HY1CNiw=h900-rw) -->
 
 ### [한중특장 - 특장차 견적 및 커뮤니티 서비스](https://play.google.com/store/apps/details?id=com.appg.hanjungtukjang)
 *Android App, Admin Web 으로 이루어진 특장차 견적문의 시스템*
@@ -205,8 +196,12 @@
 
 **특징**
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
-* ![img1-kc](https://lh3.googleusercontent.com/u-1xw2MdoYIsb43TIirQ_0Q9dNXgrMCQoFSW6eC55yw-W6fS2RAS5WTzTA-LqnQhs04=h900-rw)
-* ![img2-kc](https://lh3.googleusercontent.com/IkYrA05ePBPtdodW5PZYNPAATB5ZVYufoy4qEub1NEWMGhT3YQ_hPVQ09AdBU3wJOw=h900-rw)
+
+<img src="https://lh3.googleusercontent.com/u-1xw2MdoYIsb43TIirQ_0Q9dNXgrMCQoFSW6eC55yw-W6fS2RAS5WTzTA-LqnQhs04=h900-rw" alt="img1-kc" width="250"/> 
+<img src="https://lh3.googleusercontent.com/IkYrA05ePBPtdodW5PZYNPAATB5ZVYufoy4qEub1NEWMGhT3YQ_hPVQ09AdBU3wJOw=h900-rw" alt="img2-kc" width="250"/> 
+
+<!-- * ![img1-kc](https://lh3.googleusercontent.com/u-1xw2MdoYIsb43TIirQ_0Q9dNXgrMCQoFSW6eC55yw-W6fS2RAS5WTzTA-LqnQhs04=h900-rw) -->
+<!-- * ![img2-kc](https://lh3.googleusercontent.com/IkYrA05ePBPtdodW5PZYNPAATB5ZVYufoy4qEub1NEWMGhT3YQ_hPVQ09AdBU3wJOw=h900-rw) -->
 
 
 ### [서울대소아과병원 PSA - 소아 진정 및 진통 서비스](https://play.google.com/store/apps/details?id=com.appg.hybrid.psa)
@@ -218,9 +213,14 @@
 
 **특징**
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
-*  ![img1-snuh](https://lh3.googleusercontent.com/mNfidE7RYPdRSImOubwupQP_ygtGHUdUdOWoProrg1GLzuCYOAb5ZT2z3CSFDRHy97Yl=h900-rw)
-*  ![img2-snuh](https://lh3.googleusercontent.com/PyTehJ5pI21A1FZ3kOlvMk8pxiZpstxt9ygYgc3e1sjQNPfjRCHmZvMcCyfahyGwbSyv=h900-rw)
-*  ![img3-snuh](https://lh3.googleusercontent.com/5LKj0DghnCvD_mbyyTS2VomP6ERZoGQsZdV89UaMHapWX0Q1AUbTVtjVprUJ5bn-pBHE=h900-rw)
+
+<img src="https://lh3.googleusercontent.com/mNfidE7RYPdRSImOubwupQP_ygtGHUdUdOWoProrg1GLzuCYOAb5ZT2z3CSFDRHy97Yl=h900-rw" alt="img1-snuh" width="250"/> 
+<img src="https://lh3.googleusercontent.com/PyTehJ5pI21A1FZ3kOlvMk8pxiZpstxt9ygYgc3e1sjQNPfjRCHmZvMcCyfahyGwbSyv=h900-rw" alt="img2-snuh" width="250"/> 
+<img src="https://lh3.googleusercontent.com/5LKj0DghnCvD_mbyyTS2VomP6ERZoGQsZdV89UaMHapWX0Q1AUbTVtjVprUJ5bn-pBHE=h900-rw" alt="img2-snuh" width="250"/> 
+
+<!-- *  ![img1-snuh](https://lh3.googleusercontent.com/mNfidE7RYPdRSImOubwupQP_ygtGHUdUdOWoProrg1GLzuCYOAb5ZT2z3CSFDRHy97Yl=h900-rw) -->
+<!-- *  ![img2-snuh](https://lh3.googleusercontent.com/PyTehJ5pI21A1FZ3kOlvMk8pxiZpstxt9ygYgc3e1sjQNPfjRCHmZvMcCyfahyGwbSyv=h900-rw) -->
+<!-- *  ![img3-snuh](https://lh3.googleusercontent.com/5LKj0DghnCvD_mbyyTS2VomP6ERZoGQsZdV89UaMHapWX0Q1AUbTVtjVprUJ5bn-pBHE=h900-rw) -->
 
 ### [한성냉열 - 유지보수 업무관리 시스템](https://play.google.com/store/apps/details?id=com.appg.his)
 
