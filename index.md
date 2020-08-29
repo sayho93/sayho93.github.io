@@ -124,8 +124,10 @@
 
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 개발.
 <!-- * ![img1-uni](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_1.png) -->
+<!-- * ![img2-uni](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_2.png) -->
 * <img src="https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_1.png" alt="img1-uni" width="800"/> 
-* ![img1-uni_2](https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_2.png)
+* <img src="https://github.com/sayhoChun/sayhoChun.github.io/raw/master/uni-farm_2.png" alt="img2-uni" width="800"/>
+
 
 ### 땅땅치킨 - 치킨 주문 및 관리 시스템 (출시이전)
 *사용자 App(native), 점주용 App(native), 전체관리자 Web, 점주용 관리자 Web으로 이루어진 주문 및 이벤트 서비스*
@@ -177,9 +179,11 @@
 **특징**
 
 * WAS는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
+<p align="center">
+    <img src="https://lh3.googleusercontent.com/j7YofNHITogkHHHUX2IJLYclGV2xdk_VJaczxo5CJtbeJqGpttpOzBbKyJ2Oo99APFs1=h900-rw" alt="img1-mentalDr" width="250"/> 
+    <img src="https://lh3.googleusercontent.com/QDtjlf1XEAMJiA7lICwK3zY-nEuvdZ58Dt2TkGSKpslD8zlFyBblMGOsKYF07HY1CNiw=h900-rw" alt="img2-mentalDr" width="250"/> 
+</p>
 
-<img src="https://lh3.googleusercontent.com/j7YofNHITogkHHHUX2IJLYclGV2xdk_VJaczxo5CJtbeJqGpttpOzBbKyJ2Oo99APFs1=h900-rw" alt="img1-mentalDr" width="250"/> 
-<img src="https://lh3.googleusercontent.com/QDtjlf1XEAMJiA7lICwK3zY-nEuvdZ58Dt2TkGSKpslD8zlFyBblMGOsKYF07HY1CNiw=h900-rw" alt="img2-mentalDr" width="250"/> 
 
 <!-- * ![img1-mentalDr](https://lh3.googleusercontent.com/j7YofNHITogkHHHUX2IJLYclGV2xdk_VJaczxo5CJtbeJqGpttpOzBbKyJ2Oo99APFs1=h900-rw) -->
 <!-- * ![img2-mentalDr](https://lh3.googleusercontent.com/QDtjlf1XEAMJiA7lICwK3zY-nEuvdZ58Dt2TkGSKpslD8zlFyBblMGOsKYF07HY1CNiw=h900-rw) -->
@@ -197,8 +201,11 @@
 **특징**
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
 
-<img src="https://lh3.googleusercontent.com/u-1xw2MdoYIsb43TIirQ_0Q9dNXgrMCQoFSW6eC55yw-W6fS2RAS5WTzTA-LqnQhs04=h900-rw" alt="img1-kc" width="250"/> 
-<img src="https://lh3.googleusercontent.com/IkYrA05ePBPtdodW5PZYNPAATB5ZVYufoy4qEub1NEWMGhT3YQ_hPVQ09AdBU3wJOw=h900-rw" alt="img2-kc" width="250"/> 
+<p align="center">
+    <img src="https://lh3.googleusercontent.com/u-1xw2MdoYIsb43TIirQ_0Q9dNXgrMCQoFSW6eC55yw-W6fS2RAS5WTzTA-LqnQhs04=h900-rw" alt="img1-kc" width="250"/> 
+    <img src="https://lh3.googleusercontent.com/IkYrA05ePBPtdodW5PZYNPAATB5ZVYufoy4qEub1NEWMGhT3YQ_hPVQ09AdBU3wJOw=h900-rw" alt="img2-kc" width="250"/> 
+</p>
+
 
 <!-- * ![img1-kc](https://lh3.googleusercontent.com/u-1xw2MdoYIsb43TIirQ_0Q9dNXgrMCQoFSW6eC55yw-W6fS2RAS5WTzTA-LqnQhs04=h900-rw) -->
 <!-- * ![img2-kc](https://lh3.googleusercontent.com/IkYrA05ePBPtdodW5PZYNPAATB5ZVYufoy4qEub1NEWMGhT3YQ_hPVQ09AdBU3wJOw=h900-rw) -->
@@ -214,9 +221,11 @@
 **특징**
 * WAS 는 PHP, Front는 PHP+jQuery+javascript+html+css 기반으로 작성하였습니다.
 
-<img src="https://lh3.googleusercontent.com/mNfidE7RYPdRSImOubwupQP_ygtGHUdUdOWoProrg1GLzuCYOAb5ZT2z3CSFDRHy97Yl=h900-rw" alt="img1-snuh" width="250"/> 
-<img src="https://lh3.googleusercontent.com/PyTehJ5pI21A1FZ3kOlvMk8pxiZpstxt9ygYgc3e1sjQNPfjRCHmZvMcCyfahyGwbSyv=h900-rw" alt="img2-snuh" width="250"/> 
-<img src="https://lh3.googleusercontent.com/5LKj0DghnCvD_mbyyTS2VomP6ERZoGQsZdV89UaMHapWX0Q1AUbTVtjVprUJ5bn-pBHE=h900-rw" alt="img2-snuh" width="250"/> 
+<p align="center">
+    <img src="https://lh3.googleusercontent.com/mNfidE7RYPdRSImOubwupQP_ygtGHUdUdOWoProrg1GLzuCYOAb5ZT2z3CSFDRHy97Yl=h900-rw" alt="img1-snuh" width="250"/> 
+    <img src="https://lh3.googleusercontent.com/PyTehJ5pI21A1FZ3kOlvMk8pxiZpstxt9ygYgc3e1sjQNPfjRCHmZvMcCyfahyGwbSyv=h900-rw" alt="img2-snuh" width="250"/> 
+    <img src="https://lh3.googleusercontent.com/5LKj0DghnCvD_mbyyTS2VomP6ERZoGQsZdV89UaMHapWX0Q1AUbTVtjVprUJ5bn-pBHE=h900-rw" alt="img2-snuh" width="250"/> 
+</p>
 
 <!-- *  ![img1-snuh](https://lh3.googleusercontent.com/mNfidE7RYPdRSImOubwupQP_ygtGHUdUdOWoProrg1GLzuCYOAb5ZT2z3CSFDRHy97Yl=h900-rw) -->
 <!-- *  ![img2-snuh](https://lh3.googleusercontent.com/PyTehJ5pI21A1FZ3kOlvMk8pxiZpstxt9ygYgc3e1sjQNPfjRCHmZvMcCyfahyGwbSyv=h900-rw) -->
@@ -263,9 +272,14 @@
 
 * 서버단의 크롤러 응용 프로그램 개발 총괄을 진행하였습니다.
 
-* ![소개 이미지 - yman01](https://lh3.googleusercontent.com/jVTuwVamLodvy7Jk3dkVu0eTS4Ydhzdit4uGy6H4N_JqzcDqVEZ9ULYTyfHbyr9eyPc=h900)
+<p align="center">
+    <img src="https://lh3.googleusercontent.com/jVTuwVamLodvy7Jk3dkVu0eTS4Ydhzdit4uGy6H4N_JqzcDqVEZ9ULYTyfHbyr9eyPc=h900" alt="소개 이미지 - yman01" width="250"/> 
+    <img src="https://lh3.googleusercontent.com/VEpf0wo1EcnDvfSLRP3Vt2CC2GBTeat1PP8ee00VIip6m6Z5xxUJc1jjJqxtAVNASQ=h900" alt="소개 이미지 - yman02" width="250"/> 
+</p>
 
-* ![소개 이미지 - yman02](https://lh3.googleusercontent.com/VEpf0wo1EcnDvfSLRP3Vt2CC2GBTeat1PP8ee00VIip6m6Z5xxUJc1jjJqxtAVNASQ=h900)
+<!-- * ![소개 이미지 - yman01](https://lh3.googleusercontent.com/jVTuwVamLodvy7Jk3dkVu0eTS4Ydhzdit4uGy6H4N_JqzcDqVEZ9ULYTyfHbyr9eyPc=h900)
+
+* ![소개 이미지 - yman02](https://lh3.googleusercontent.com/VEpf0wo1EcnDvfSLRP3Vt2CC2GBTeat1PP8ee00VIip6m6Z5xxUJc1jjJqxtAVNASQ=h900) -->
 
 **협업 및 프로세스 관리도구**
 
@@ -307,9 +321,12 @@
 
 * 본 앱의 시초가 된 [동국헬퍼](https://play.google.com/store/apps/details?id=com.planner.dgu.dguplan)는 동국대학교 학생 약 400여 명이 이용 중입니다. (2016/12/05 기준)
 
-* ![소개 이미지 - 유니테이블01](https://lh3.googleusercontent.com/puvsoAkEUTYZwNr_GwsgPQPHeLLuHaogEFFmptNezUJvaxovBTama9QoUIWBdrxGKRBS=h900)
+<p align="center">
+    <img src="https://lh3.googleusercontent.com/puvsoAkEUTYZwNr_GwsgPQPHeLLuHaogEFFmptNezUJvaxovBTama9QoUIWBdrxGKRBS=h900" alt="소개 이미지 - yman01" width="250"/> 
+</p>
 
-* ![소개 이미지 - 유니테이블02](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-xtp1/v/t1.0-9/11143539_1631924167044007_5431670694314137520_n.jpg?oh=dea16b5ff1c2601d1b400a1927560dcb&oe=5607C5C6&__gda__=1442807520_2d3107a0083218110785262cca45eff5)
+<!-- * ![소개 이미지 - 유니테이블01](https://lh3.googleusercontent.com/puvsoAkEUTYZwNr_GwsgPQPHeLLuHaogEFFmptNezUJvaxovBTama9QoUIWBdrxGKRBS=h900) -->
+
 
 **협업 및 프로세스 관리도구**
 
@@ -355,9 +372,13 @@
 
 * 현재 구글 플레이 사용자 약 1000명이 이용 중입니다. (2016/12/22 기준)
 
-* ![소개 이미지 - HideAndSeek01](https://lh3.googleusercontent.com/XlzHMvNsiT_5kCibqKySahtZbEJCWzagwBNTd_3_7xn2sBLqEE7bHV6X_IovwdTXyAs=h900)
+<p align="center">
+    <img src="https://lh3.googleusercontent.com/XlzHMvNsiT_5kCibqKySahtZbEJCWzagwBNTd_3_7xn2sBLqEE7bHV6X_IovwdTXyAs=h900" alt="소개 이미지 - HideAndSeek01" width="250"/> 
+    <img src="https://lh3.googleusercontent.com/WDP5D_Ecm6CgaGqqzlGa-9BGmt5lh8m-3piN1QEPanohX_f1bFTI0sXSR3dsghM98w=h900" alt="소개 이미지 - HideAndSeek02" width="250"/> 
+</p>
 
-* ![소개 이미지 - HideAndSeek02](https://lh3.googleusercontent.com/WDP5D_Ecm6CgaGqqzlGa-9BGmt5lh8m-3piN1QEPanohX_f1bFTI0sXSR3dsghM98w=h900)
+<!-- * ![소개 이미지 - HideAndSeek01](https://lh3.googleusercontent.com/XlzHMvNsiT_5kCibqKySahtZbEJCWzagwBNTd_3_7xn2sBLqEE7bHV6X_IovwdTXyAs=h900) -->
+<!-- * ![소개 이미지 - HideAndSeek02](https://lh3.googleusercontent.com/WDP5D_Ecm6CgaGqqzlGa-9BGmt5lh8m-3piN1QEPanohX_f1bFTI0sXSR3dsghM98w=h900) -->
 
 **협업 및 프로세스 관리도구**
 
